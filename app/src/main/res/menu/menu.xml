@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home" />
+    <item android:id="@+id/menu_track_workout"
+        android:title="Track Workout" />
+    <item android:id="@+id/menu_online_workout"
+        android:title="Online Workouts" />
+    <item android:id="@+id/menu_my_workouts"
+        android:title="My Workouts" />
+    <item android:id="@+id/menu_excersices"
+        android:title="Exercises" />
+    <item android:id="@+id/menu_info"
+        android:title="info" />
+
+    <item android:id="@+id/menu_signout"
+        android:title="Sign Out" />
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028442263671",
+    "firebase_url": "https://fit4me11.firebaseio.com",
+    "project_id": "fit4me11",
+    "storage_bucket": "fit4me11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028442263671:android:9c5b5b4ea15cba27",
+        "android_client_info": {
+          "package_name": "com.example.fit4me11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028442263671-a5lm3j4987d0e07j1aiqgi8l220es05o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit4me11",
+            "certificate_hash": "71f3d7d83d3c20a6bc5cf52e4866d4978160d096"
+          }
+        },
+        {
+          "client_id": "1028442263671-on8bcnj03acldeh3ki54s8jens80ncui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFN8HEYcSFKhOpN5T1qoq82VsioNF8G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028442263671-on8bcnj03acldeh3ki54s8jens80ncui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

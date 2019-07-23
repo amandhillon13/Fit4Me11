@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2ca823</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#2ca823</color>
+    <color name="background">#2ca823</color>
+    <color name="secondary">#23d323</color>
+    <color name="dark">#313233</color>
+    <color name="white">#eef2ed</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="rankPersonStepsColor">#999999</color>
+    <color name="rankPersonNameColor">#222222</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+</resources>
